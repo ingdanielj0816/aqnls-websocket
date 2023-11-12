@@ -1,0 +1,448 @@
+{
+    "results": [
+        {
+            "category": "ASTRONOMÍA",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Cuál es el planeta más grande del sistema solar?",
+            "correct_answer": "Júpiter",
+            "incorrect_answers": [
+                "Venus",
+                "Mercurio",
+                "Tierra"
+            ]
+        },
+        {
+            "category": "CONSPIRACIONES",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es una de las teorías de conspiración más populares sobre los extraterrestres?",
+            "correct_answer": "El gobierno ha ocultado la presencia de extraterrestres en la Tierra.",
+            "incorrect_answers": [
+                "Los extraterrestres están planeando invadir la Tierra.",
+                "Los extraterrestres han construido bases secretas en la Tierra.",
+                "Los extraterrestres son seres pacíficos que quieren ayudar a la humanidad."
+            ]
+        },
+        {
+            "category": "ESPIRITUALIDAD",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Qué es el karma según la filosofía hindú?",
+            "correct_answer": "Un concepto relacionado con la reencarnación",
+            "incorrect_answers": [
+                "Una forma de meditación",
+                "Una técnica de curación",
+                "Una práctica de adivinación"
+            ]
+        },
+        {
+            "category": "FÚTBOL",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿En qué país se encuentra el estadio Maracaná, uno de los más famosos del mundo?",
+            "correct_answer": "Brasil",
+            "incorrect_answers": [
+                "Argentina",
+                "España",
+                "México"
+            ]
+        },
+        {
+            "category": "FINANZAS E INVERSIONES",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué es el ROI en finanzas?",
+            "correct_answer": "Una fórmula para calcular el retorno de inversión",
+            "incorrect_answers": [
+                "Un tipo de inversión en bonos del gobierno",
+                "Una estrategia de diversificación de cartera",
+                "Una herramienta de análisis técnico de acciones"
+            ]
+        },
+        {
+            "category": "MISTERIOS Y ENIGMAS",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿En qué año se descubrió la tumba de Tutankamón en el Valle de los Reyes de Egipto?",
+            "correct_answer": "1922",
+            "incorrect_answers": [
+                "1933",
+                "1945",
+                "1956"
+            ]
+        },
+        {
+            "category": "RELIGIÓN",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Cuál es el nombre del último libro del Nuevo Testamento en la Biblia cristiana?",
+            "correct_answer": "Apocalipsis",
+            "incorrect_answers": [
+                "Génesis",
+                "Éxodo",
+                "Levítico"
+            ]
+        },
+        {
+            "category": "ARTE",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Quién pintó la Mona Lisa?",
+            "correct_answer": "Leonardo da Vinci",
+            "incorrect_answers": [
+                "Pablo Picasso",
+                "Claude Monet",
+                "Vincent van Gogh"
+            ]
+        },
+        {
+            "category": "ARTE",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Quién pintó la Capilla Sixtina?",
+            "correct_answer": "Michelangelo",
+            "incorrect_answers": [
+                "Leonardo da Vinci",
+                "Pablo Picasso",
+                "Raphael"
+            ]
+        },
+        {
+            "category": "ARTE",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Quién pintó \"Cisnes que reflejan elefantes\", \"El sueño\" y \"La persistencia de la memoria\"?",
+            "correct_answer": "Salvador Dalí",
+            "incorrect_answers": [
+                "Jackson Pollock",
+                "Vincent van Gogh",
+                "Edgar Degas"
+            ]
+        },
+        {
+            "category": "ARTE",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Qué pintura de Van Gogh representa la vista desde su asilo en Saint-Rémy-de-Provence en el sur de Francia?",
+            "correct_answer": "La noche estrellada",
+            "incorrect_answers": [
+                "Trigales con cuervos",
+                "El sembrador con sol poniente",
+                "La iglesia en Auvers"
+            ]
+        },
+        {
+            "category": "ARTE",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Quién pintó el fresco bíblico La creación de Adán?",
+            "correct_answer": "Michelangelo",
+            "incorrect_answers": [
+                "Leonardo da Vinci",
+                "Caravaggio",
+                "Rembrandt"
+            ]
+        },
+        {
+            "category": "CIENCIAS BÁSICAS",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Qué nombre se le da a todos ¿bebés marsupiales?",
+            "correct_answer": "Joey",
+            "incorrect_answers": [
+                "Ternero",
+                "Cachorro",
+                "Cachorro"
+            ]
+        },
+        {
+            "category": "CIENCIAS BÁSICAS",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es el hueso más largo del cuerpo humano? ",
+            "correct_answer": "Fémur",
+            "incorrect_answers": [
+                "Escápula",
+                "Fibula",
+                "Ulna"
+            ]
+        },
+        {
+            "category": "CIENCIAS BÁSICAS",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué tipo de roca se crea por el intenso calor Y la presión?",
+            "correct_answer": "Metamórfica",
+            "incorrect_answers": [
+                "Sedimentaria",
+                "Ígnea",
+                "Diamante"
+            ]
+        },
+        {
+            "category": "CIENCIAS BÁSICAS",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es el símbolo elemental del mercurio?",
+            "correct_answer": "Hg",
+            " incorrect_answers": [
+                "Yo",
+                "Mc",
+                "Hy"
+            ]
+        },
+        {
+            "category": "CIENCIAS BÁSICAS",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": " ¿Cuál es el elemento más abundante en el universo?",
+            "correct_answer": "Hidrógeno",
+            "incorrect_answers": [
+                "Helio",
+                "Litio",
+                "Oxígeno"
+            ]
+        },
+        {
+            "category": "CULTURA GENERAL",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Cuántos colores hay en un arcoíris?",
+            "correct_answer": "7",
+            "incorrect_answers": [
+                "8",
+                "9",
+                "10"
+            ]
+        },
+        {
+            "category": "CULTURA GENERAL",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Qué significan las letras en la zona horaria GMT?",
+            "correct_answer": "hora del meridiano de Greenwich",
+            "incorrect_answers": [
+                "hora del meridiano global",
+                "mediana general Time",
+                "Glasgow Man Time"
+            ]
+        },
+        {
+            "category": "CULTURA GENERAL",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué elemento de la máquina se encuentra en el centro de los fidget spinners?",
+            "correct_answer": "Rodamientos",
+            "incorrect_answers": [
+                "Ejes",
+                "Engranajes",
+                " Cinturones"
+            ]
+        },
+        {
+            "category": "CULTURA GENERAL",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Cuál es el planeta más cercano al sol de nuestro sistema solar? ?",
+            "correct_answer": "Mercurio",
+            "incorrect_answers": [
+                "Marte",
+                "Júpiter",
+                "Tierra"
+            ]
+        },
+        {
+            "category": "CULTURA GENERAL",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "El tipo “hada” lo hizo’¿Debut en qué generación de juegos de la serie principal de Pokémon?",
+            "correct_answer": "6th",
+            "incorrect_answers": [
+                "2nd",
+                "7th",
+                "4th"
+            ]
+        },
+        {
+            "category": "DEPORTES GENERALES",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿En qué deporte es un \"volante\" ; ¿usado?",
+            "correct_answer": "Bádminton",
+            "incorrect_answers": [
+                "Tenis de mesa",
+                "Rugby",
+                "Cricket"
+            ]
+        },
+        {
+            "category": "DEPORTES GENERALES",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Qué equipo ganó la Copa Mundial de la FIFA Brasil 2014?",
+            "correct_answer": "Alemania",
+            "incorrect_answers": [
+                "Argentina",
+                "Brasil",
+                "Países Bajos"
+            ]
+        },
+        {
+            "category": "DEPORTES GENERALES",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuándo se jugó el primer partido internacional oficial?",
+            "correct_answer": "1872",
+            "incorrect_answers": [
+                "1880",
+                "1863",
+                "1865"
+            ]
+        },
+        {
+            "category": "DEPORTES GENERALES",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Qué afroamericano es en parte responsable de la integración del béisbol de Grandes Ligas?",
+            "correct_answer": "Jackie Robinson",
+            "incorrect_answers": [
+                "Curt Flood",
+                "Roy Campanella",
+                "Satchell Paige"
+            ]
+        },
+        {
+            "category": "DEPORTES GENERALES",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Cómo se llama el estadio del Manchester United?",
+            "correct_answer": "Old Trafford",
+            "incorrect_answers": [
+                "Anfield",
+                "Estadio de la Ciudad de Manchester",
+                "St James Park"
+            ]
+        },
+        {
+            "category": "GEOGRAFÍA",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Qué estado es el estado más grande del ¿Estados Unidos de América?",
+            "correct_answer": "Alaska",
+            "incorrect_answers": [
+                "California",
+                "Texas",
+                "Washington"
+            ]
+        },
+        {
+            "category": "GEOGRAFÍA",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es la capital de Indonesia?",
+            "correct_answer": "Yakarta",
+            "incorrect_answers": [
+                "Bandung",
+                "Medan",
+                "Palembang"
+            ]
+        },
+        {
+            "category": "GEOGRAFÍA",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es el nombre de los indígenas de Nueva Zelanda?",
+            "correct_answer": "Maorí",
+            "incorrect_answers": [
+                "Vikingos",
+                "Polinesios",
+                "Samoanos"
+            ]
+        },
+        {
+            "category": "GEOGRAFÍA",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Cuál es la capital de España?",
+            "correct_answer": "Madrid",
+            "incorrect_answers ": [
+                "Barcelona",
+                "Sevilla",
+                "Toledo"
+            ]
+        },
+        {
+            "category": "GEOGRAFÍA",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "Con qué océano bordea la costa oeste de los Estados Unidos?",
+            "correct_answer": "Pacífico",
+            "incorrect_answers": [
+                "Atlántico",
+                "Indio",
+                "Ártico"
+            ]
+        },
+        {
+            "category": "HISTORIA OCULTA",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿Cuántos alunizajes tripulados ha habido ?",
+            "correct_answer": "6",
+            "incorrect_answers": [
+                "1",
+                "3",
+                "7"
+            ]
+        },
+        {
+            "category": "HISTORIA OCULTA",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "En 1720, Inglaterra estaba muy endeudada y se involucró en la Burbuja de los Mares del Sur. ¿Quién fue el autor intelectual principal detrás de ella?",
+            "correct_answer": "John Blunt",
+            "incorrect_answers": [
+                "Daniel Defoe",
+                "Robert Harley",
+                "John Churchill"
+            ]
+        },
+        {
+            "category": "HISTORIA OCULTA",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Quién fue el primer primer ministro de Canadá?",
+            "correct_answer": "John Macdonald",
+            "incorrect_answers": [
+                "John Abbott",
+                "Alexander Mackenzie ",
+                "Robert Borden"
+            ]
+        },
+        {
+            "category": "HISTORIA OCULTA",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "¿A qué partido político pertenecía Abraham Lincoln cuando fue elegido POTUS ?",
+            "correct_answer": "Republicano",
+            "incorrect_answers": [
+                "Demócrata",
+                "Independiente",
+                "Whig"
+            ]
+        },
+        {
+            "category": "HISTORIA OCULTA",
+            "type": "multiple",
+            "difficulty": "fácil",
+            "question": "En 1453,¿Qué ciudad importante cayó?",
+            "correct_answer": "Constantinopla",
+            "incorrect_answers": [
+                "Roma",
+                "Hamburgo",
+                "Atenas"
+            ]
+        }
+    ]
+}
